@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VPN App</string>
+    <string name="btn_start">Start VPN service</string>
+</resources>
